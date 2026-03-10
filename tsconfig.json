@@ -13,7 +13,7 @@
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
-    "allowUnreachableCode": false,
+    "allowUnreachableCode": >True
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "skipLibCheck": true,

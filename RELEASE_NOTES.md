@@ -1,5 +1,73 @@
 # @mdn/browser-compat-data release notes
 
+## [v7.3.4](https://github.com/mdn/browser-compat-data/releases/tag/v7.3.4)
+
+February 25, 2026
+
+### Additions
+
+- `api.HTMLButtonElement.commandForElement.implicit_anchor_reference` ([#29093](https://github.com/mdn/browser-compat-data/pull/29093))
+- `browsers.deno.releases.2.6` ([#29121](https://github.com/mdn/browser-compat-data/pull/29121))
+- `browsers.deno.releases.2.6.7` ([#29121](https://github.com/mdn/browser-compat-data/pull/29121))
+- `browsers.deno.releases.2.7` ([#29121](https://github.com/mdn/browser-compat-data/pull/29121))
+- `html.elements.button.commandfor.implicit_anchor_reference` ([#29093](https://github.com/mdn/browser-compat-data/pull/29093))
+- `html.elements.link.rel.modulepreload.as-json` ([#29048](https://github.com/mdn/browser-compat-data/pull/29048))
+- `html.elements.link.rel.modulepreload.as-script` ([#29048](https://github.com/mdn/browser-compat-data/pull/29048))
+- `html.elements.link.rel.modulepreload.as-style` ([#29048](https://github.com/mdn/browser-compat-data/pull/29048))
+- `http.headers.Permissions-Policy.gamepad` ([#28744](https://github.com/mdn/browser-compat-data/pull/28744))
+
+### Statistics
+
+- 8 contributors have changed 50 files with 870 additions and 1,909 deletions in 21 commits ([`v7.3.3...v7.3.4`](https://github.com/mdn/browser-compat-data/compare/v7.3.3...v7.3.4))
+- 19,370 total features
+- 1,228 total contributors
+- 5,590 total stargazers
+
+## [v7.3.3](https://github.com/mdn/browser-compat-data/releases/tag/v7.3.3)
+
+February 20, 2026
+
+### Removals
+
+- `html.global_attributes.nonce.nonce_hiding` ([#29045](https://github.com/mdn/browser-compat-data/pull/29045))
+- `http.headers.X-Frame-Options.ALLOW-FROM` ([#29069](https://github.com/mdn/browser-compat-data/pull/29069))
+
+### Additions
+
+- `api.Document.execCommand.paste` ([#28953](https://github.com/mdn/browser-compat-data/pull/28953))
+- `api.WebTransport.anticipatedConcurrentIncomingBidirectionalStreams` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `api.WebTransport.anticipatedConcurrentIncomingUnidirectionalStreams` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `api.WebTransport.createSendGroup` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `api.WebTransport.draining` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `api.WebTransport.supportsReliableOnly_static` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `api.WebTransportDatagramDuplexStream.createWritable` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `api.WebTransportDatagramsWritable` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `api.WebTransportDatagramsWritable.sendGroup` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `api.WebTransportDatagramsWritable.sendOrder` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `api.WebTransportSendGroup` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `api.WebTransportSendGroup.getStats` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `api.WebTransportSendStream.sendGroup` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `browsers.edge.releases.148` ([#29051](https://github.com/mdn/browser-compat-data/pull/29051))
+- `browsers.safari_ios.releases.26.4` ([#29056](https://github.com/mdn/browser-compat-data/pull/29056))
+- `browsers.safari.releases.26.4` ([#29056](https://github.com/mdn/browser-compat-data/pull/29056))
+- `browsers.webview_ios.releases.26.4` ([#29056](https://github.com/mdn/browser-compat-data/pull/29056))
+- `css.properties.display.grid-lanes` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `css.properties.display.inline-grid-lanes` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `css.properties.flow-tolerance` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `css.properties.flow-tolerance.infinite` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `css.properties.flow-tolerance.normal` ([#29063](https://github.com/mdn/browser-compat-data/pull/29063))
+- `css.types.random.dashed-ident` ([#29081](https://github.com/mdn/browser-compat-data/pull/29081))
+- `css.types.random.element-shared` ([#29081](https://github.com/mdn/browser-compat-data/pull/29081))
+- `css.types.random.step` ([#29081](https://github.com/mdn/browser-compat-data/pull/29081))
+- `javascript.builtins.RegExp.compile.rexexp_legacy_features` ([#28999](https://github.com/mdn/browser-compat-data/pull/28999))
+
+### Statistics
+
+- 7 contributors have changed 64 files with 1,172 additions and 656 deletions in 32 commits ([`v7.3.2...v7.3.3`](https://github.com/mdn/browser-compat-data/compare/v7.3.2...v7.3.3))
+- 19,364 total features
+- 1,225 total contributors
+- 5,585 total stargazers
+
 ## [v7.3.2](https://github.com/mdn/browser-compat-data/releases/tag/v7.3.2)
 
 February 13, 2026
