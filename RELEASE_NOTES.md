@@ -1,5 +1,79 @@
 # @mdn/browser-compat-data release notes
 
+## [v7.3.6](https://github.com/mdn/browser-compat-data/releases/tag/v7.3.6)
+
+March 6, 2026
+
+### Additions
+
+- `api.CSSFontFaceRule.style.type_CSSFontFaceDescriptors` ([#29157](https://github.com/mdn/browser-compat-data/pull/29157))
+- `api.Navigator.preferences` ([#29142](https://github.com/mdn/browser-compat-data/pull/29142))
+- `api.PreferenceManager` ([#29142](https://github.com/mdn/browser-compat-data/pull/29142))
+- `api.PreferenceManager.colorScheme` ([#29142](https://github.com/mdn/browser-compat-data/pull/29142))
+- `api.PreferenceManager.contrast` ([#29142](https://github.com/mdn/browser-compat-data/pull/29142))
+- `api.PreferenceManager.reducedData` ([#29142](https://github.com/mdn/browser-compat-data/pull/29142))
+- `api.PreferenceManager.reducedMotion` ([#29142](https://github.com/mdn/browser-compat-data/pull/29142))
+- `api.PreferenceManager.reducedTransparency` ([#29142](https://github.com/mdn/browser-compat-data/pull/29142))
+- `api.PreferenceObject` ([#29142](https://github.com/mdn/browser-compat-data/pull/29142))
+- `api.PreferenceObject.change_event` ([#29142](https://github.com/mdn/browser-compat-data/pull/29142))
+- `api.PreferenceObject.clearOverride` ([#29142](https://github.com/mdn/browser-compat-data/pull/29142))
+- `api.PreferenceObject.override` ([#29142](https://github.com/mdn/browser-compat-data/pull/29142))
+- `api.PreferenceObject.requestOverride` ([#29142](https://github.com/mdn/browser-compat-data/pull/29142))
+- `api.PreferenceObject.validValues` ([#29142](https://github.com/mdn/browser-compat-data/pull/29142))
+- `api.PreferenceObject.value` ([#29142](https://github.com/mdn/browser-compat-data/pull/29142))
+- `api.WGSLLanguageFeatures.extension_uniform_buffer_standard_layout` ([#29171](https://github.com/mdn/browser-compat-data/pull/29171))
+- `css.properties.appearance.base-select.listbox` ([#29189](https://github.com/mdn/browser-compat-data/pull/29189))
+- `css.properties.appearance.base-select.multiple_dropdown` ([#29189](https://github.com/mdn/browser-compat-data/pull/29189))
+- `css.properties.appearance.base-select.single_dropdown` ([#29189](https://github.com/mdn/browser-compat-data/pull/29189))
+- `http.headers.Sec-Secure-Session-Id` ([#29161](https://github.com/mdn/browser-compat-data/pull/29161))
+- `http.headers.Secure-Session-Challenge` ([#29161](https://github.com/mdn/browser-compat-data/pull/29161))
+- `http.headers.Secure-Session-Registration` ([#29161](https://github.com/mdn/browser-compat-data/pull/29161))
+- `http.headers.Secure-Session-Response` ([#29161](https://github.com/mdn/browser-compat-data/pull/29161))
+- `http.headers.Secure-Session-Skipped` ([#29161](https://github.com/mdn/browser-compat-data/pull/29161))
+- `webextensions.api.tabs.onUpdated.changeInfo.splitViewId` ([#29128](https://github.com/mdn/browser-compat-data/pull/29128))
+- `webextensions.api.tabs.onUpdated.filter.properties.splitViewId` ([#29128](https://github.com/mdn/browser-compat-data/pull/29128))
+- `webextensions.api.tabs.query.queryInfo.splitViewId` ([#29128](https://github.com/mdn/browser-compat-data/pull/29128))
+- `webextensions.api.tabs.SPLIT_VIEW_ID_NONE` ([#29128](https://github.com/mdn/browser-compat-data/pull/29128))
+- `webextensions.api.tabs.Tab.splitViewId` ([#29128](https://github.com/mdn/browser-compat-data/pull/29128))
+
+### Statistics
+
+- 17 contributors have changed 55 files with 1,165 additions and 168 deletions in 38 commits ([`v7.3.5...v7.3.6`](https://github.com/mdn/browser-compat-data/compare/v7.3.5...v7.3.6))
+- 19,413 total features
+- 1,233 total contributors
+- 5,598 total stargazers
+
+## [v7.3.5](https://github.com/mdn/browser-compat-data/releases/tag/v7.3.5)
+
+February 27, 2026
+
+### Additions
+
+- `browsers.bun.releases.1.3.10` ([#29141](https://github.com/mdn/browser-compat-data/pull/29141))
+- `browsers.firefox_android.releases.151` ([#29129](https://github.com/mdn/browser-compat-data/pull/29129))
+- `browsers.firefox.releases.151` ([#29129](https://github.com/mdn/browser-compat-data/pull/29129))
+- `css.properties.alignment-baseline.text-bottom` ([#29135](https://github.com/mdn/browser-compat-data/pull/29135))
+- `css.properties.alignment-baseline.text-top` ([#29135](https://github.com/mdn/browser-compat-data/pull/29135))
+- `css.properties.baseline-shift.bottom` ([#29135](https://github.com/mdn/browser-compat-data/pull/29135))
+- `css.properties.baseline-shift.center` ([#29135](https://github.com/mdn/browser-compat-data/pull/29135))
+- `css.properties.baseline-shift.top` ([#29135](https://github.com/mdn/browser-compat-data/pull/29135))
+- `css.properties.dominant-baseline.text-bottom` ([#29135](https://github.com/mdn/browser-compat-data/pull/29135))
+- `css.properties.dominant-baseline.text-top` ([#29135](https://github.com/mdn/browser-compat-data/pull/29135))
+- `css.properties.vertical-align.center` ([#29135](https://github.com/mdn/browser-compat-data/pull/29135))
+- `css.properties.vertical-align.first` ([#29135](https://github.com/mdn/browser-compat-data/pull/29135))
+- `css.properties.vertical-align.last` ([#29135](https://github.com/mdn/browser-compat-data/pull/29135))
+- `html.elements.script.integrity.ed25519_public_key` ([#29112](https://github.com/mdn/browser-compat-data/pull/29112))
+- `http.headers.Signature` ([#29112](https://github.com/mdn/browser-compat-data/pull/29112))
+- `http.headers.Signature-Input` ([#29112](https://github.com/mdn/browser-compat-data/pull/29112))
+- `http.headers.Unencoded-Digest` ([#29112](https://github.com/mdn/browser-compat-data/pull/29112))
+
+### Statistics
+
+- 6 contributors have changed 33 files with 684 additions and 155 deletions in 14 commits ([`v7.3.4...v7.3.5`](https://github.com/mdn/browser-compat-data/compare/v7.3.4...v7.3.5))
+- 19,384 total features
+- 1,228 total contributors
+- 5,594 total stargazers
+
 ## [v7.3.4](https://github.com/mdn/browser-compat-data/releases/tag/v7.3.4)
 
 February 25, 2026
